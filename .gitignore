@@ -1,5 +1,6 @@
-# Carpeta de datos
 datos/
+figuras/
+
 ## Compiled python files
 *.py[cod]
 ## emacs backups
